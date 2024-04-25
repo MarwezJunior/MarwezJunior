@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-	<h1>Hi 👋 from techfussion. </h1>
+	<h1>Hi 👋 from Ibrahim. </h1>
 	<img src="">
 	<h2>🌟 Intro</h2>
 	<p>As a full stack developer, I excel in crafting cutting-edge web solutions using diverse technologies. With a passion for problem-solving and continuous self-improvement, I build responsive, user-friendly applications across front-end and back-end development. My expertise ensures robust solutions that meet the evolving needs of modern web environments.
