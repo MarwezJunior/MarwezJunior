@@ -31,8 +31,9 @@ Here are some ideas to get you started:
 	<ul>
 		<li>LinkedIn:https://www.linkedin.com/in/ibrahim-bamariwu-muhammad-173a4621a </li>
 		<li>Email: ibamariwu@gmail.com </li>
-		
 	</ul>
-	<p font-size="2rem">Please feel free to reach out to me to explore potential collaborations or opportunities. I'm eager to discuss how my expertise can contribute to your projects or initiatives.</p>
+	<p font-size="2rem">
+		Please feel free to reach out to me to explore potential collaborations or opportunities. I'm eager to discuss how my expertise can contribute to your         projects or initiatives.
+	</p>
 
 </div>
