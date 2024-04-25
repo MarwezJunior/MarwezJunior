@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div>
 	<h1>Hi 👋 from Ibrahim. </h1>
-	<img src="![Uploading image.png…]()
+	<img src="https://www.canva.com/design/DAGDcNfPtWA/08zLjQkHQ4sljrD23wCQSA/view?utm_content=DAGDcNfPtWA&utm_campaign=designshare&utm_medium=link&utm_source=editor
 ">
 	<h2>🌟 Intro</h2>
 	<p>As a full stack developer, I excel in crafting cutting-edge web solutions using diverse technologies. With a passion for problem-solving and continuous self-improvement, I build responsive, user-friendly applications across front-end and back-end development. My expertise ensures robust solutions that meet the evolving needs of modern web environments.
