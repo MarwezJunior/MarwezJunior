@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 		<li>Email: ibamariwu@gmail.com </li>
 	</ul>
 	<p font-size="2rem">
-		Please feel free to reach out to me to explore potential collaborations or opportunities. I'm eager to discuss how my expertise can contribute to your         projects or initiatives.
+	Please feel free to reach out to me to explore potential collaborations or opportunities. I'm eager to discuss how my expertise can contribute to your projects          or initiatives.
 	</p>
 
 </div>
