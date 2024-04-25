@@ -16,23 +16,23 @@ Here are some ideas to get you started:
 -->
 <div>
 	<h1>Hi 👋 from techfussion. </h1>
-	<img src="https://github.com/techfussion/placeholder/blob/main/Linkedin_bg.jpeg?raw=true">
+	<img src="">
 	<h2>🌟 Intro</h2>
-	<p>I'm a software engineer armed with extensive expertise in conceptualizing, crafting, and executing cutting-edge web solutions encompassing a diverse array of web technologies, all underpinned by an unwavering commitment to continuous self-improvement. I'm passionate about solving complex problems and building responsive, user-friendly web applications using the latest technologies.
+	<p>As a full stack developer, I excel in crafting cutting-edge web solutions using diverse technologies. With a passion for problem-solving and continuous self-improvement, I build responsive, user-friendly applications across front-end and back-end development. My expertise ensures robust solutions that meet the evolving needs of modern web environments.
 	</p>
-	<h2>🚀 Skills</h2>
+	<h2> Skills</h2>
 	<ul>
-		<li>Front-end: React, Redux, HTML5, CSS3, SASS, JavaScript, TypeScript</li>
-		<li>Back-end: Node.js, Express.js, MongoDB, SQL, Django</li>
-		<li>Dev Tools: Git, shell, VSCode, Postman, Heroku, Netlify</li>
-		<li>Languages: Python, JavaScript, C++, Java, PHP</li>
+		<li>Front-end: React, Redux, HTML5, CSS3, JavaScript, TypeScript</li>
+		<li>Back-end:  MongoDB, SQL, Django</li>
+		<li>Dev Tools: Git, shell, VSCode,  Netlify</li>
+		<li>Languages: Python, JavaScript </li>
 	</ul>
 	<h2>📫 Get in touch</h2>
 	<ul>
-		<li>LinkedIn: https://linkedin.com/in/raji-abdulmumin-728377279</li>
-		<li>Email: muminraj15@gmail.com</li>
-		<li>Website: https://rajmumin.vercel.app</li>
+		<li>LinkedIn:https://www.linkedin.com/in/ibrahim-bamariwu-muhammad-173a4621a </li>
+		<li>Email: ibamariwu@gmail.com </li>
+		
 	</ul>
-	<p font-size="2rem">Feel free to contact me to discuss any potential collaboration or opportunities.</p>
+	<p font-size="2rem">Please feel free to reach out to me to explore potential collaborations or opportunities. I'm eager to discuss how my expertise can contribute to your projects or initiatives.</p>
 
 </div>
