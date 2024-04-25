@@ -22,14 +22,14 @@ Here are some ideas to get you started:
 	</p>
 	<h2> Skills</h2>
 	<ul>
-		<li>Front-end: React, Redux, HTML5, CSS3, JavaScript, TypeScript</li>
+		<li>Front-end: React, Redux, HTML, CSS, JavaScript, TypeScript</li>
 		<li>Back-end:  MongoDB, SQL, Django</li>
 		<li>Dev Tools: Git, shell, VSCode,  Netlify</li>
 		<li>Languages: Python, JavaScript </li>
 	</ul>
 	<h2>📫 Get in touch</h2>
 	<ul>
-		<li>LinkedIn:https://www.linkedin.com/in/ibrahim-bamariwu-muhammad-173a4621a </li>
+		<li>LinkedIn: https://www.linkedin.com/in/ibrahim-bamariwu-muhammad-173a4621a </li>
 		<li>Email: ibamariwu@gmail.com </li>
 	</ul>
 	<p font-size="2rem">
